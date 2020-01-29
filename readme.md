@@ -5,6 +5,6 @@
 My hobby is programming Currently
 I study at the it-run programming school. I also work in a logistics company.
 ### My skills ####
-###Code examples - ####
+###Code examples ####
 ###My experience -
 ###My education -####
