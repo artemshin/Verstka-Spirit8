@@ -1,5 +1,5 @@
 #My portfolio
-![Image](https://lh5.googleusercontent.com/proxy/qxAG39F_nEy-d0aenQ9ZxP-gFwLzzGQyN0PpnwgtZ7sqcTzbg57-uBFPQ90pfSsZ3kPHx8-9cJmBR1ObVrJI9ZNn7UKkzmmoNh2bZuToZDyzH3WVGJJu6tSKh43s46I)
+![Image](https://lh4.googleusercontent.com/proxy/AbllqP3WkXVOkVEIKiyGMKVCC3klAmnaP6FhfRqc9XxEt571ym7-0xNRmnjSBpqWpaaYrogNSE9vSlh1YYfE7aVo6NJGu1pHXiPCAKKC6ImJhQgM5yGI_QbWcA)
 ###First Name, Last Name - ####Shin Artem 
 ###Contact info - #### t. +996 551-11-12-47 s. Kahovskaya-37, Email: artem.shin.rulit
 ###Summary - ####Hi, my name is Artem. I am 20 years old. I live in the Kyrgyz Republic, Bishkek.
